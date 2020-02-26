@@ -1,3 +1,4 @@
+//
 public class MainTitik{ // buat class
 	public static void main(String[] args){ //set main
 		Titik t1 = new Titik();     // buat objek
